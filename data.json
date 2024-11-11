@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "img": "https://images.pexels.com/photos/2641886/pexels-photo-2641886.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "name": ""
+  },
+  {
+    "id": 2,
+    "img": "https://images.pexels.com/photos/327158/pexels-photo-327158.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "name": "Burger"
+  },
+  {
+    "id": 3,
+    "img": "https://images.pexels.com/photos/2347311/pexels-photo-2347311.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "name": "Noodles"
+  },
+  {
+    "id": 4,
+    "img": "https://images.pexels.com/photos/1487511/pexels-photo-1487511.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "name": "Pasta"
+  },
+  {
+    "id": 5,
+    "img": "https://images.pexels.com/photos/262959/pexels-photo-262959.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "name": "Fish"
+  },
+  {
+    "id": 6,
+    "img": "https://images.pexels.com/photos/1059943/pexels-photo-1059943.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "name": "Fritters"
+  },
+  {
+    "id": 7,
+    "img": "https://images.pexels.com/photos/29345893/pexels-photo-29345893/free-photo-of-freshly-baked-pizza-with-toppings-on-wooden-board.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "name": "Pizza"
+  },
+  {
+    "id": 8,
+    "img": "https://images.pexels.com/photos/17998833/pexels-photo-17998833/free-photo-of-dumplings-in-a-bamboo-box.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "name": "Dumplings"
+  },
+  {
+    "id": 9,
+    "img": "https://images.pexels.com/photos/10038682/pexels-photo-10038682.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "name": "Fish fillets"
+  },
+  {
+    "id": 10,
+    "img": "https://images.pexels.com/photos/2689419/pexels-photo-2689419.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "name": "Barbeques"
+  },
+  {
+    "id": 11,
+    "img": "https://images.pexels.com/photos/29346178/pexels-photo-29346178/free-photo-of-delicious-club-sandwich-with-french-fries.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "name": "sandwich"
+  },
+  {
+    "id": 12,
+    "img": "https://images.pexels.com/photos/106343/pexels-photo-106343.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "name": "Grilled chicken"
+  },
+  {
+    "id": 13,
+    "img": "https://images.pexels.com/photos/60616/fried-chicken-chicken-fried-crunchy-60616.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "name": "Fried chicken"
+  },
+  {
+    "id": 14,
+    "img": "https://images.pexels.com/photos/11743998/pexels-photo-11743998.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "name": "Fried rice"
+  },
+  {
+    "id": 15,
+    "img": "https://images.pexels.com/photos/20371512/pexels-photo-20371512/free-photo-of-top-view-of-a-plate-with-roasted-chicken.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "name": "Roasted chicken"
+  },
+  {
+    "id": 16,
+    "img": "https://images.pexels.com/photos/1352296/pexels-photo-1352296.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "name": "IceCreams"
+  },
+  {
+    "id": 17,
+    "img": "https://images.pexels.com/photos/17696653/pexels-photo-17696653/free-photo-of-chicken-wings-in-rice-with-saffron.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "name": "Chicken biryani"
+  },
+  {
+    "id": 18,
+    "img": "https://images.pexels.com/photos/18467142/pexels-photo-18467142/free-photo-of-french-fries-served-in-a-bowl-in-a-restaurant.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "name": "French fries"
+  },
+  {
+    "id": 19,
+    "img": "https://images.pexels.com/photos/9624298/pexels-photo-9624298.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "name": "Chicken sandwich"
+  },
+  {
+    "id": 20,
+    "img": "https://images.pexels.com/photos/2955819/pexels-photo-2955819.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "name": "Burrito"
+  }
+]
